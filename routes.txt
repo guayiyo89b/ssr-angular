@@ -1,0 +1,6 @@
+/pokemon/page/1
+/pokemon/page/2
+/pokemon/page/3
+/pokemon/page/4
+/pokemon/page/5
+/pokemon/pikachu

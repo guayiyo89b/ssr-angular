@@ -2,6 +2,7 @@ import { ChangeDetectionStrategy, Component, input, OnInit } from '@angular/core
 import { PokemonBase } from '../../interfaces/pokemon-base';
 import { RouterLink } from '@angular/router';
 
+
 @Component({
   selector: 'app-pokemon-card',
   standalone: true,
